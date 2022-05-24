@@ -1,1 +1,1 @@
-# postgres_ko
+# postgres-ko
